@@ -1,0 +1,5 @@
+export const SET_WEATHERAPIDATA = "SET_WEATHERAPIDATA";
+
+export const SET_POSTSDATA = "SET_POSTSDATA";
+
+export const LOGOUT = "LOGOUT";
